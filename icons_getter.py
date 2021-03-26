@@ -4,6 +4,8 @@
 # Icons Getter can be used to generate a .png file with the icon of a specified file, including previews. #
 # Icons Getter is a java package, and this library add python compatibility #
 
+# Needs a java jdk to be in the same folder, in "jdk" folder#
+
 import subprocess
 
 
