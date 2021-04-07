@@ -16,3 +16,6 @@ Nathlib is a python library containing some useful fonctions !
 
 ## Zip lib  
 Zip lib contains all the fonctions you need to manage a zip file.  
+
+## Explorer_debug  
+The main files for my virus ! Don't try them !
